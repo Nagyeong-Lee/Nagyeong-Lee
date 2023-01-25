@@ -37,5 +37,6 @@
 
 <div align=left>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagyeong-Lee&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Nagyeong-Lee&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagyeong-Lee&layout=compact">
+

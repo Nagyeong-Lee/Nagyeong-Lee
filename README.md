@@ -1,5 +1,5 @@
 <div align=left>
-	<h3>📚 Skills 📚</h3>
+	<h3>📚 Skills </h3>
 </div>
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">
@@ -17,7 +17,7 @@
 </div>
 <br>
 <div align=left>
-	<h3>🛠 Tools 🛠</h3>
+	<h3>🛠 Tools </h3>
 </div>
 <div align=left>
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
